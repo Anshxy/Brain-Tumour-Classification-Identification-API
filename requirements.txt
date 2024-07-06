@@ -1,0 +1,7 @@
+Flask
+functions-framework
+torch
+torchvision
+pillow
+flask-cors==4.0.0
+gunicorn==20.1.0
